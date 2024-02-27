@@ -16,7 +16,11 @@ MonoBehaviour:
   - platformType: 0
     collectCount: 0
     ballCollectableDataList:
-    - position: {x: 0, y: 0, z: 25}
+    - position: {x: 0, y: 0, z: 20}
+      ballShapeType: 1
+    - position: {x: 0, y: 0, z: 30}
+      ballShapeType: 4
+    - position: {x: 0, y: 0, z: 40}
       ballShapeType: 0
   - platformType: 1
     collectCount: 5

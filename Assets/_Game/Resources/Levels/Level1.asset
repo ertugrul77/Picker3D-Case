@@ -18,20 +18,22 @@ MonoBehaviour:
     ballCollectableDataList:
     - position: {x: 0, y: 0, z: 15}
       ballShapeType: 0
-    - position: {x: 0, y: 0, z: 20}
-      ballShapeType: 0
-    - position: {x: 0, y: 0, z: 25}
-      ballShapeType: 0
+    - position: {x: 0, y: 0, z: 30}
+      ballShapeType: 1
+    - position: {x: 0, y: 0, z: 45}
+      ballShapeType: 2
   - platformType: 1
-    collectCount: 1
+    collectCount: 5
     ballCollectableDataList: []
   - platformType: 0
     collectCount: 0
     ballCollectableDataList:
-    - position: {x: 0, y: 0, z: 25}
-      ballShapeType: 0
+    - position: {x: 0, y: 0, z: 20}
+      ballShapeType: 3
+    - position: {x: 0, y: 0, z: 40}
+      ballShapeType: 2
   - platformType: 1
-    collectCount: 0
+    collectCount: 5
     ballCollectableDataList: []
   - platformType: 2
     collectCount: 0
